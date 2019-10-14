@@ -1,0 +1,11 @@
+---
+layout: default
+---
+<title>Stream - EJSwimmer101</title>
+<article id="main">
+        <center><h2><strong>STREAM</strong></h2>
+    </header>
+        <center><img src="https://www.bradykondek.ga/pics/fortnite-logo.png"></center>
+    <center><iframe src="https://player.twitch.tv/?channel=twitch" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe><iframe src="https://www.twitch.tv/embed/twitch/chat" frameborder="0" scrolling="no" height="378" width="350"></iframe></center>
+    </section>
+</article>
